@@ -1,0 +1,1 @@
+void write_image(const char *path, struct Image image);

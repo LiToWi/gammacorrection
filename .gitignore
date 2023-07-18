@@ -1,0 +1,20 @@
+# editor files/folder
+.idea/
+.vscode/
+*.json
+cmake-build-debug
+CMakeLists.txt
+
+# build files
+dist/*
+!dist/.gitkeep
+*.o
+*.obj
+*.exe
+main
+gammacorrection
+Ausarbeitung.pdf
+
+# examples
+*.ppm
+Examples/*.ppm
